@@ -52,8 +52,6 @@ export default function Penawaran() {
     fetchData();
   }, []);
 
-  console.log("data", data);
-
   return (
     <div className="bg-gray-100 h-full flex flex-col min-h-screen font-m-plus-rounded">
       {/* Sidebar */}

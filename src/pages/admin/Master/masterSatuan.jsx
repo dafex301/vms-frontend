@@ -130,10 +130,10 @@ export default function MasterSatuan() {
                   <form onSubmit={handleSubmit}>
                     <DialogHeader className="relative m-0 block">
                       <Typography variant="h4" color="blue-gray">
-                        Create Kota
+                        Tambah Satuan
                       </Typography>
                       <Typography className="mt-1 font-normal text-gray-600">
-                        Create kota data
+                        Tambah satuan data
                       </Typography>
                       <IconButton
                         size="sm"
